@@ -12,20 +12,20 @@ Version:           1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Click4Assistance UK provides Live Chat Software.Allow visitors on your site to start a live chat,monitor visitors in real-time and invite them chat.
+Click4Assistance UK provides Live Chat Software. Allowing visitors to start a live chat, you can even monitor them in real-time inviting them to chat.
 
 == Description ==
 
 Simply add our live chat software add-on to your WordPress site or blog and let customers chat with you direct.
 
-The leading UK live chat provider Click4Assistance provides a simple to install, secure and reliable WordPress add-on, allowing you to add  live chat plus many other features to your website in a few simple steps. Please note that Click4Assistance Live Chat is a paid product with 21-day no obligation free trial (no credit card details needed). For more details see pricing and plans. 
+The leading UK live chat provider Click4Assistance provides a simple to install, secure and reliable WordPress add-on, allowing you to add  live chat plus many other features to your website in a few simple steps. Please note that Click4Assistance Live Chat for business websites is a paid product with 21-day no obligation free trial (no credit card details needed). For more details see pricing and plans. 
 
 
 <p><strong>Proven to:</strong></p>
 
 <ol>
 <li>Boost both your sales and customer satisfaction</li>
-<li>Reduced Abandonments</li>
+<li>Reduce Abandonments</li>
 <li>Reduce Costs by spending less time on each enquiry</li>
 </ol>
 
@@ -34,7 +34,7 @@ Packed full of useful features this technology even works out of hours or when y
 <p><strong>Here are just a few of the many features available:</strong></p>
 
 <ul>
-	<li>Chat button and chat window can be branded like no other product</li>
+	<li>Chat buttons and chat windows can be branded like no other product</li>
 	<li>Monitor visitors on your website in real-time (see who referred them and which keywords were used)</li>
 	<li>Proactively engage with visitors and offer them your assistance</li>
 	<li>Call Back, Survey & Feedback forms</li>
@@ -57,9 +57,9 @@ For a complete list click here <a href="http://www.click4assistance.co.uk/Price.
 
 Established in the UK at the inception of the Live Chat concept, Click4Assistance was one of the first, ground-breaking companies to introduce Live Chat Software.
 
-For more than 8 years we have been successfully providing Live Chat technology to SME and corporate organisations; feedback from our customers has guided the development and expansion of the solution.
+For more than 10 years we have been successfully providing Live Chat solutions to SME and corporate organisations; feedback from our customers has guided the development and expansion of the solution.
 
-Click4Assistance offers a fully flexible, versatile and customisable solution ensuring a seamless fit with your website. Constant R&D ensures we stay one step ahead of your visitors’ expectations and you're armed with the very latest technology.
+Click4Assistance offers a fully flexible, versatile and customisable solution ensuring a seamless fit with your website. Constant R&D ensures we stay one step ahead of your visitors' expectations and you're armed with the very latest technology.
 
 == Installation ==
 
@@ -94,7 +94,7 @@ Login to the Click4Assistance software and select "Website Activity"
 
 = What happens when I'm not available to handle chats? =
 
-Click4Assistance will present a call-back form to your visitors; they can leave you a message which gets emailed to you immediately.
+Click4Assistance will present a call-back form to your visitors; they can leave you a message which gets emailed to you immediately. Alternatively, you can hide the chat button if required.
 
 = Will this work on an Apple Mac? =
 
@@ -102,7 +102,7 @@ You can handle chats in Click4Assistance using just a browser, contact us for mo
 
 
 == Screenshots ==
-1. Even when you.re not available to handle chats, Click4Assistance still works for you.
+1. Even when you're not available to handle chats, Click4Assistance still works for you.
 
 2. Before a chat is started gather the visitor details, even ask them to automatically login using Facebook or Google+.
 
